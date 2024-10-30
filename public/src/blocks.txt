@@ -1,0 +1,47 @@
+=== Cart ===
+woocommerce/cart-line-items-block
+core/heading
+woocommerce/cart-cross-sells-products-block
+woocommerce/cart-cross-sells-block
+woocommerce/cart-items-block
+woocommerce/cart-order-summary-heading-block
+woocommerce/cart-order-summary-coupon-form-block
+woocommerce/cart-order-summary-subtotal-block
+woocommerce/cart-order-summary-fee-block
+woocommerce/cart-order-summary-discount-block
+woocommerce/cart-order-summary-shipping-block
+woocommerce/cart-order-summary-taxes-block
+woocommerce/cart-order-summary-block
+woocommerce/cart-express-payment-block
+woocommerce/proceed-to-checkout-block
+woocommerce/cart-accepted-payment-methods-block
+woocommerce/cart-totals-block
+woocommerce/filled-cart-block
+core/heading
+core/paragraph
+core/separator
+core/heading
+woocommerce/product-new
+woocommerce/empty-cart-block
+
+woocommerce/cart
+
+
+=== Comunes ===
+woocommerce/cart-order-summary-block
+woocommerce/cart-order-summary-taxes-block
+woocommerce/proceed-to-checkout-block
+
+woocommerce/cart-order-summary-shipping-block
+woocommerce/cart-order-summary-subtotal-block
+
+
+=== Product ===
+woocommerce/product-title
+woocommerce/product-price
+woocommerce/product-images
+woocommerce/product-add-to-cart
+woocommerce/product-meta
+woocommerce/product-rating
+woocommerce/product-reviews
+woocommerce/related-products

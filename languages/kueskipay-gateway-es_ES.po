@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KueskiPay Gateway\n" 
+"POT-Creation-Date: 2021-07-06 01:16-0400\n"
+"PO-Revision-Date: 2021-07-06 01:19-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: kueski-gateway.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-wc-kueski-gateway.php:51
+#: includes/class-wc-kueski-gateway.php:922
+#: includes/class-wc-kueski-gateway.php:932
+#: includes/class-wc-kueski-gateway.php:964
+msgid "Kueski"
+msgstr "Kueski"
+
+#: includes/class-wc-kueski-gateway.php:65
+msgid "Compra ahora, paga después."
+msgstr "Compra ahora, paga después."
+
+#: includes/class-wc-kueski-gateway.php:66
+msgid "Serás redirigido al sitio de Kueski Pay para completar tu solicitud."
+msgstr "Serás redirigido al sitio de Kueski Pay para completar tu solicitud."
+
+#: includes/class-wc-kueski-gateway.php:648
+msgid ""
+"Thank for your order, please complete the following information to process "
+"your order with"
+msgstr ""
+"Gracias por su pedido, complete la siguiente información para procesar su "
+"pedido con"
+
+#: includes/class-wc-kueski-gateway.php:652
+msgid "Pay with Kueski"
+msgstr "Pagar con Kueski Pay"
+
+#: includes/class-wc-kueski-gateway.php:657
+msgid "There was a problem communicating with Kueski. Try again later..."
+msgstr ""
+"Hubo un problema al comunicarse con Kueski. Inténtalo de nuevo más tarde..."
+
+#: includes/class-wc-kueski-gateway.php:659
+msgid "Cancel &amp; Restore Cart"
+msgstr "Cancelar &amp; Restaurar Carrito"
+
+#: includes/class-wc-kueski-gateway.php:675
+msgid "Kueski: Amount is invalid."
+msgstr "Kueski: El precio no es válida."
+
+#: includes/class-wc-kueski-gateway.php:680
+msgid "Kueski: Payment approved."
+msgstr "Kueski: Pago aprobado."
+
+#: includes/class-wc-kueski-gateway.php:683
+msgid "Kueski: Order processed."
+msgstr "Kueski: Pedido procesado."
+
+#: includes/class-wc-kueski-gateway.php:688
+msgid "Kueski: Transaction was declined."
+msgstr "Kueski: La transacción fue rechazada."
+
+#: includes/class-wc-kueski-gateway.php:715
+msgid "Thank you. Your order has been received."
+msgstr "Gracias. Tu orden ha sido recibida."
+
+#: includes/class-wc-kueski-gateway.php:715
+msgid "You Transaction ID is"
+msgstr "Su ID de transacción es"
+
+#: includes/class-wc-kueski-gateway.php:743
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: includes/class-wc-kueski-gateway.php:880
+msgid "This order was not processed by Kueski."
+msgstr "Este pedido no fue procesado por Kueski."
+
+#: includes/class-wc-kueski-gateway.php:887
+msgid "Kueski Transaction ID"
+msgstr "ID de transacción en Kueski"
+
+#: includes/class-wc-kueski-gateway.php:922
+#, php-format
+msgid "Please input a valid Public Key. %s"
+msgstr "Ingrese una clave pública válida. %s"
+
+#: includes/class-wc-kueski-gateway.php:922
+#: includes/class-wc-kueski-gateway.php:932
+#: includes/class-wc-kueski-gateway.php:941
+msgid "Click aqui para configurarlo!"
+msgstr "¡Click aquí para configurarlo!"
+
+#: includes/class-wc-kueski-gateway.php:932
+#, php-format
+msgid "Please input a Private Key. %s"
+msgstr "Por favor ingrese una clave privada. %s"
+
+#: includes/class-wc-kueski-gateway.php:941
+msgid "Kueski Desactivado"
+msgstr "Kueski Desactivado"
+
+#: includes/class-wc-kueski-gateway.php:941
+#, php-format
+msgid "El Public Key o Secret Key son invalidos. %s"
+msgstr "El Public Key o Secret Key son inválidos. %s"
+
+#: includes/class-wc-kueski-gateway.php:949
+#, php-format
+msgid ""
+"El directorio <code>/wp-content/plugins/kueski-gateway/%s</code> del "
+"modulo Kueski no es escribible, cambielo a chmod 777."
+msgstr ""
+"El directorio <code>/wp-content/plugins/kueski-gateway/%s</code> del "
+"modulo Kueski no es escribible, cámbielo a chmod 777."
+
+#: includes/class-wc-kueski-gateway.php:964
+#, php-format
+msgid ""
+"Unsupported currency <code>%s</code>. Please activate a conversion rate in "
+"the module configuration or use one of the following currencies: USD, EUR."
+msgstr ""
+"Moneda no admitida <code>%s</code>. Active una tasa de conversión en la "
+"configuración del módulo o utilice una de las siguientes monedas: MXN"
+
+#: includes/data-settings-kueski.php:8
+msgid "Manual de Configuración"
+msgstr "Manual de Configuración"
+
+#: includes/data-settings-kueski.php:13
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/data-settings-kueski.php:15
+msgid "Activate Kueski"
+msgstr "Activar Kueski"
+
+#: includes/data-settings-kueski.php:32
+msgid "Kueski API Key"
+msgstr "Key API de Kueski"
+
+#: includes/data-settings-kueski.php:34
+msgid "Input the Public Key of Kueski."
+msgstr "Ingrese la clave pública de Kueski."
+
+#: includes/data-settings-kueski.php:38
+msgid "Kueski Secret Key"
+msgstr "Clave secreta de Kueski"
+
+#: includes/data-settings-kueski.php:40
+msgid "Input the Private Key of Kueski"
+msgstr "Ingrese la clave privada de Kueski"
+
+#: includes/data-settings-kueski.php:44
+msgid "Leave orders with payment Accepted in Completed"
+msgstr "Dejar los pedidos con el pago aceptado en completado"
+
+#: includes/data-settings-kueski.php:46
+msgid "Active"
+msgstr "Activo"
+
+#: includes/data-settings-kueski.php:48
+msgid ""
+"When the payment is approved, the order in WooCommerce will not remain in "
+"Processing but in Completed."
+msgstr ""
+"Cuando se aprueba el pago, el pedido en WooCommerce no permanecerá en "
+"Procesamiento sino en Completado."
+
+#: includes/data-settings-kueski.php:51
+msgid "Modal"
+msgstr "Modal"
+
+#: includes/data-settings-kueski.php:53
+msgid ""
+"Modal Window (By clicking on \"Pay\" Kueski window opens on the Same Page)."
+msgstr ""
+"Ventana modal (Al hacer clic en \"Pagar\" se abre la ventana de Kueski en la "
+"misma página)."
+
+#: includes/data-settings-kueski.php:57 includes/data-settings-kueski.php:59
+msgid "Show widget on product sheet"
+msgstr "Mostrar widget en la ficha de producto"
+
+#: includes/data-settings-kueski.php:63 includes/data-settings-kueski.php:65
+msgid "Show widget on cart summary"
+msgstr "Mostrar widget en resumen de compra"
+
+#: includes/data-settings-kueski.php:69
+msgid "Sandbox Mode"
+msgstr "Modo Sandbox"
+
+#: includes/data-settings-kueski.php:71
+msgid ""
+"In Sandbox mode you must change the credentials to those of a Sandbox "
+"project."
+msgstr ""
+"En el modo Sandbox, debe cambiar las credenciales a las de un proyecto "
+"Sandbox."
+
+#: includes/data-settings-kueski.php:75
+msgid "Debug Mode"
+msgstr "Modo Debug"
+
+#: includes/data-settings-kueski.php:77
+msgid "Enable Debug file in the directory"
+msgstr "Habilite el archivo de depuración en el directorio"
+
+#: kueski-gateway.php:115
+#, php-format
+msgid "WooCommerce Kueski Gateway depends on the last version of %s to work!"
+msgstr ""
+"¡WooCommerce Kueski Gateway depende de la última versión de %s para "
+"funcionar!"
+
+#: kueski-gateway.php:115
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: kueski-gateway.php:151
+msgid "Kueski Information"
+msgstr "Información de Kueski"
+
+#: kueski-gateway.php:157
+msgid "Setting"
+msgstr "Configuración"
+
+#. Plugin Name of the plugin/theme
+msgid "KueskiPay Gateway"
+msgstr "KueskiPay Gateway"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://lievant.com/"
+msgstr "http://lievant.com/"
+
+#. Description of the plugin/theme
+msgid "Kueski plugin for WooCommerce"
+msgstr "Plugin Kueski para WooCommerce"
+
+#. Author of the plugin/theme
+msgid "Lievant"
+msgstr "Lievant"
+
+#~ msgid "Line Item Amount Offset"
+#~ msgstr "Ítem para ajuste de precios"
+
+#~ msgid "Adjust cart calculation discrepancy"
+#~ msgstr "Ajuste por discrepancia en precisión"
+
+#~ msgid "Title"
+#~ msgstr "Titulo"
+
+#~ msgid "Add the name to Kueski that will be shown to the client"
+#~ msgstr "Agregue el nombre a Kueski que se mostrará al cliente"
+
+#~ msgid "Description"
+#~ msgstr "Descripción"
+
+#~ msgid "Add a description to this payment method"
+#~ msgstr "Agregar una descripción a este método de pago"

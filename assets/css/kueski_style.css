@@ -1,0 +1,21 @@
+.row.kueski-form {
+    width: 100%;
+}
+.kueski-form .form-control {
+    width: 100%;
+    min-height: 40px;
+}
+.kueski-form .clearfix {
+    clear: both;
+}
+.runningKueski {
+    opacity: 0.5;
+}
+label[for=payment_method_kueski-gateway] {
+    display: block;
+}
+label[for=payment_method_kueski-gateway] img {
+}
+.kp-ppd-message {
+    clear: both;
+}

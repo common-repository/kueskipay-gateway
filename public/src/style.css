@@ -1,0 +1,10 @@
+.kp-widget-cart {
+    text-align: center;
+    margin-top: 20px;
+}
+.kp-widget-cart-editor {
+    text-align: center;
+    margin-top: 20px;
+    border: 2px dashed #ddd;
+    padding: 20px;
+}
